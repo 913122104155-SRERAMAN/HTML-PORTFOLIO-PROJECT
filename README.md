@@ -1,0 +1,1 @@
+Heyyy!! This is my first time doing a project in Github and I used only html to create my own simple portfolio project with what i learnt. Hope it will be useful for those who seeks to understand the basics of html.
